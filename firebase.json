@@ -1,0 +1,1 @@
+{"emulators":{"singleProjectMode":true,"firestore":{"port":8080},"ui":{"enabled":true,"port":8081},"auth":{"port":9099}},"hosting":{"public":"build/web","ignore":["firebase.json","**/.*","**/node_modules/**"]},"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"test-app-340d0","configurations":{"web":"1:66892170832:web:eb10920bd31114a846b355"}}}}}}
